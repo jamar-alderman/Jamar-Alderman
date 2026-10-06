@@ -8,6 +8,10 @@ I’m building hands-on experience across Cisco networking, Windows Server, Linu
 
 Linux server hardening, least-privilege access, secure network segmentation, vulnerability remediation, and Cisco networking.
 
+## 🐧 Desktop
+
+Linux Mint and Rocky Linux as daily drivers on a hand-built Dell OptiPlex SFF desktop and laptop. Windows Server 2025 and RHEL 10 for administration projects.
+
 ## 🛠️ Current Focus
 
 - Cisco networking and CCNA-level infrastructure
