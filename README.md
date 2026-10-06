@@ -37,6 +37,34 @@ Building a Windows Server domain environment with AD DS, DNS, DHCP, organization
 
 *Documentation in progress.*
 
+## 🧪 My Home Lab Stack
+
+### 🔒 Network & security
+- Cisco Catalyst 2960G on my home network
+- Tailscale for secure remote connectivity between Linux Mint, Rocky Linux, and RHEL systems
+- pfSense edge firewall/router planned for routing, NAT, and network segmentation
+
+### 🪟 Windows infrastructure
+- Windows Server 2025
+- Active Directory Domain Services
+- DNS and DHCP
+- Windows 11 domain clients
+- PowerShell + JSON user provisioning
+
+### 🐧 Linux & monitoring
+- RHEL 10 server running Nagios
+- NSClient++ agents on Windows 11 clients for endpoint monitoring
+- Nagios monitoring the Cisco 2960G and Windows endpoints
+- Rocky Linux and Linux Mint daily drivers
+- KVM/libvirt virtualization
+
+### 🛡️ Security projects
+- Linux server hardening
+- OpenSCAP / STIG-aligned remediation
+- Least-privilege access
+- Secure network segmentation
+- Vulnerability remediation
+
 ## 💡 What I’m Building Toward
 
 A systems and infrastructure career combining networking, Windows/Linux administration, automation, and security.
