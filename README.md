@@ -1,6 +1,6 @@
 # Jamar Alderman
 
-**Networking | Cybersecurity | Systems Administration**
+**Networking | Systems Administration**
 
 I’m building hands-on experience across Cisco networking, Windows Server, Linux administration, and automation. My projects focus on understanding how systems work, how to secure them, and how to troubleshoot them when they break.
 
