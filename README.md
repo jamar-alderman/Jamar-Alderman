@@ -33,7 +33,7 @@ Rocky Linux 10 hardening project using OpenSCAP and STIG-aligned security contro
 [View Linux Hardening Lab](https://github.com/jamar-alderman/Ubuntu-STIG-Remediation)
 
 ### 🪟 Active Directory Infrastructure Lab
-Building a Windows Server domain environment with AD DS, DNS, DHCP, organizational units, security groups, Windows 11 clients, Group Policy, and PowerShell/JSON user provisioning automation.
+Building a Windows Server domain environment with AD DS, DNS, DHCP, organizational units, security groups, Windows 11 domain clients, Group Policy, and PowerShell/JSON user provisioning automation.
 
 *Documentation in progress.*
 
@@ -53,8 +53,8 @@ Building a Windows Server domain environment with AD DS, DNS, DHCP, organization
 
 ### 🐧 Linux & monitoring
 - RHEL 10 server running Nagios
-- NSClient++ agents on Windows 11 clients for endpoint monitoring
-- Nagios monitoring the Cisco 2960G and Windows endpoints
+- NSClient++ agents on Entra ID-joined Windows 11 clients for endpoint monitoring
+- Nagios monitoring the Cisco 2960G and Entra ID-joined Windows endpoints
 - Rocky Linux and Linux Mint daily drivers
 - KVM/libvirt virtualization
 
