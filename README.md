@@ -67,4 +67,4 @@ Building a Windows Server domain environment with AD DS, DNS, DHCP, organization
 
 ## 💡 What I’m Building Toward
 
-A systems and infrastructure career combining networking, Windows/Linux administration, automation, and security.
+A systems career combining networking, Windows/Linux administration, and automation, with security as the focus.
