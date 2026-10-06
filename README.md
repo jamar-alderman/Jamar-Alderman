@@ -2,11 +2,11 @@
 
 **Networking | Cybersecurity | Systems Administration**
 
-I’m building hands-on experience across Cisco networking, Windows Server, Linux administration, infrastructure security, and automation. My projects focus on understanding how systems work, how to secure them, and how to troubleshoot them when they break.
+I’m building hands-on experience across Cisco networking, Windows Server, Linux administration, and automation. My projects focus on understanding how systems work, how to secure them, and how to troubleshoot them when they break.
 
 ## 🧠 Cares about
 
-Linux server hardening, least-privilege access, secure network segmentation, vulnerability remediation, and Cisco networking.
+Linux server hardening, least-privilege, network segmentation, vulnerability remediation, and Cisco networking.
 
 ## 🐧 Desktop
 
@@ -14,11 +14,10 @@ Linux Mint and Rocky Linux as daily drivers on a hand-built Dell OptiPlex SFF de
 
 ## 🛠️ Current Focus
 
-- Cisco networking and CCNA-level infrastructure
+- Cisco networking
 - Windows Server, Active Directory, DNS, DHCP, and Group Policy
 - PowerShell and JSON automation
 - Linux administration and server hardening
-- Security-focused infrastructure troubleshooting
 
 ## 🚀 Projects
 
