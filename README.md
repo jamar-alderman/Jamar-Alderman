@@ -32,9 +32,9 @@ Rocky Linux 10 hardening project using OpenSCAP and STIG-aligned security contro
 [View Linux Hardening Lab](https://github.com/jamar-alderman/Ubuntu-STIG-Remediation)
 
 ### 🪟 Active Directory Infrastructure Lab
-Building a Windows Server domain environment with AD DS, DNS, DHCP, organizational units, security groups, Windows 11 domain clients, Group Policy, and PowerShell/JSON user provisioning automation.
+Built a Windows Server 2025 domain environment with AD DS, DNS, DHCP, organizational units, security groups, and PowerShell/JSON user provisioning automation. The project also documents the file-path, execution-policy, and missing-OU issues encountered while provisioning users.
 
-*Documentation in progress.*
+[View Active Directory Lab](https://github.com/jamar-alderman/Active-directory-Project)
 
 ## 🧪 My Home Lab Stack
 
